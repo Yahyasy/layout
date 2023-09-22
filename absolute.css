@@ -1,0 +1,31 @@
+.container{
+    position: relative;
+    top: 30px;
+    left: 100px;
+}
+div{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 100px;
+
+}
+
+.biru{
+    background-color: lightblue;
+    top: 0;
+    left: 0;
+
+}
+
+.hijau{
+    background-color: greenyellow;
+    top: 100px;
+    left: 100px;
+}
+
+.pink{
+    background-color: pink;
+    top: 200px;
+    left: 200px;
+}

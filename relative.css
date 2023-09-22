@@ -1,0 +1,25 @@
+.container{
+    margin-left: 100px;
+}
+div{
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+
+.merah{
+    background-color: red;
+    left: 210px;
+
+}
+
+.hijau{
+    background-color: green;
+    bottom: 200px;
+}
+
+.ungu{
+    background-color: purple;
+    bottom: 190px;
+    left: 100px;
+}

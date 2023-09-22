@@ -1,0 +1,23 @@
+.container{
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+div{
+    height: 200px;
+    width: 200px;
+}
+
+.merah{
+    background-color: red;
+    position: static;
+   margin-left: 200px;
+}
+.kuning{
+    background-color: yellow;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.biru{
+    background-color: blue;
+    margin-top: 10px;
+}

@@ -1,0 +1,30 @@
+section {
+  position: relative;
+  left: 100px;
+}
+
+div {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+}
+
+.merah {
+  background-color: red;
+  left: 0;
+  z-index: 1;
+  top: 75px;
+}
+
+.kuning {
+  background-color: yellow;
+  left: 100px;
+  top: 150px;
+  z-index: 2;
+}
+
+.hijau {
+  background-color: green;
+  left: 200px;
+  top: 220px;
+}
